@@ -1,1 +1,1 @@
-This is example of git bash
+This is example of git bash!
